@@ -9,3 +9,15 @@ Real-time vehicle detection & accident alert system using YOLO and Python.
 1. Clone the repo
 2. Install dependencies
 3. Run the project
+   ## Technologies
+- Python  
+- OpenCV  
+- YOLO  
+- NumPy  
+- Pandas  
+- Git, GitHub
+  ## Contributing
+Feel free to fork, raise issues, or submit pull requests.
+
+## License
+MIT License
